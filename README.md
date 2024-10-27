@@ -1,2 +1,2 @@
-# Ola_mundo2
- Primeiro repositorio guanabara git
+# Olás_mundo
+ Primeiro repositorio guanabara git aprendendo
